@@ -1,10 +1,12 @@
-/* .navigation {
-    display: flex;
-}
 .header-title-text {
     display: inline-block;
 }
 
 .header-nav-wrapper {
     display: inline-block;
-} */
+    float: right;
+}
+
+a {
+    padding: 10px;
+}
